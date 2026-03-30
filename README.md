@@ -1,2 +1,14 @@
-# Spam-Email-Detection
-AI-powered spam email detection system leveraging NLP and machine learning to identify phishing and malicious emails. Demonstrates how AI can enhance email security and threat detection.
+# Spam Email Detection
+
+This project uses Machine Learning and NLP to classify emails as spam or ham.
+
+## Features
+- Text preprocessing (tokenization, stopwords removal)
+- TF-IDF vectorization
+- Model: Naive Bayes / Logistic Regression
+
+## Result
+Achieved high accuracy in spam detection.
+
+## Tech Used
+Python, Scikit-learn, NLP
